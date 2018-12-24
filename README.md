@@ -1,5 +1,7 @@
 ## Server Blacklist
 
+_Translations: [French (français)](README.fr.md)._
+
 This repository contains a `blacklist.txt` of XMPP domains that are used by
 spammers and do not react to abuse complaints. Servers are added and removed
 according to the following rules. The track record leading to addition or
