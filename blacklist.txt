@@ -1,1 +1,2 @@
 otr.chat
+paranoid.scarab.name
