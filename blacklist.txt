@@ -1,4 +1,5 @@
 bashtel.ru
+jabber.cd
 jabber.sampo.ru
 otr.chat
 paranoid.scarab.name
