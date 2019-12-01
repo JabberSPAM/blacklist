@@ -5,3 +5,4 @@ otr.chat
 paranoid.scarab.name
 rassnet.org
 safetyjabber.com
+xmpp.bytesund.biz
