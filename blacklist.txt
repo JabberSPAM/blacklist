@@ -1,5 +1,6 @@
 bashtel.ru
 darkengine.biz
+default.rs
 hiddenlizard.org
 jabber.cd
 jabber.freenet.de
