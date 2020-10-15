@@ -6,6 +6,7 @@ jabber.freenet.de
 jabber.ipredator.se
 jabber.npw.net
 jabber.sampo.ru
+labas.biz
 otr.chat
 paranoid.scarab.name
 rassnet.org
