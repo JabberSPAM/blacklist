@@ -3,6 +3,7 @@ creep.im
 darkengine.biz
 default.rs
 hiddenlizard.org
+jabber.bitactive.com
 jabber.cd
 jabber.freenet.de
 jabber.ipredator.se
