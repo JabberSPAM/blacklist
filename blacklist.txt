@@ -10,6 +10,7 @@ jabber.ipredator.se
 jabber.npw.net
 jabber.sampo.ru
 labas.biz
+onionmessenger.com
 otr.chat
 paranoid.scarab.name
 rassnet.org
