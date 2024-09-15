@@ -16,3 +16,4 @@ rassnet.org
 safetyjabber.com
 sj.ms
 xmpp.bytesund.biz
+xmpp.jp
