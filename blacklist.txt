@@ -2,6 +2,7 @@ bashtel.ru
 creep.im
 darkengine.biz
 default.rs
+dw.live
 hiddenlizard.org
 jabber.bitactive.com
 jabber.cd
